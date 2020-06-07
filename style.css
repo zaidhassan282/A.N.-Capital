@@ -1,0 +1,31 @@
+.navbar{
+    background-color:#F2EEED!important;
+}
+
+.nav-link{
+    font-weight: bold !important;
+}
+
+.navbar-brand{
+    width: 100px;
+    height: 100px
+}
+
+.carousel-item{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    align-content: center;
+}
+.plots{
+    margin: auto;
+}
+.footer{
+    background-color:#F2EEED!important;
+    width: 100px;
+    height:100px ;
+}
+.footer{
+    margin-left: 100px
+}
+
